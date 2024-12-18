@@ -10,7 +10,9 @@ namespace Hello_World
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("꺄꺄룽");
+            Console.WriteLine("꺄꺄룽");
+            Console.WriteLine("꺄꺄룽");
         }
     }
 }
